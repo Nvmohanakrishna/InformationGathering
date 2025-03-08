@@ -31,7 +31,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![WhatsApp Image 2025-03-08 at 15 31 21_1adeaadf](https://github.com/user-attachments/assets/385490c5-373a-4e63-a40c-fbfb20a1483f)
 ```
 *FINDING IP ADDERSS*
-![WhatsApp Image 2025-03-08 at 15 32 31_8d113125](https://github.com/user-attachments/assets/978d7416-4db2-46ce-a65b-040b7a848dac)
+![WhatsApp Image 2025-03-08 at 15 32 31_d6ae8a99](https://github.com/user-attachments/assets/ef7eeec5-843e-4b94-975e-a71e4e5cb607)
+
 ```
 
 ```
