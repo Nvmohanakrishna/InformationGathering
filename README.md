@@ -42,13 +42,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## ping command :
-![Screenshot 2025-03-10 113145](https://github.com/user-attachments/assets/61649992-1fec-4c62-be09-ee2d6256e77f)
+![WhatsApp Image 2025-03-15 at 13 52 21_2515ebbe](https://github.com/user-attachments/assets/8f99ece6-bd21-4d7f-b460-da58136c3966)
+
 
 
 
 ## whois :
-![Screenshot 2025-03-10 113219](https://github.com/user-attachments/assets/5703d5be-0855-44f6-9992-c1b78ca2129e)
-
+![WhatsApp Image 2025-03-15 at 14 04 51_37b904bb](https://github.com/user-attachments/assets/807e7966-1da6-4620-af8d-375836446f2a)
 
 
 
@@ -59,13 +59,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## nmap :
-![{0B3C0F2E-9015-4ED4-A1EA-506D5A49D7DD}](https://github.com/user-attachments/assets/3cfbacc5-ba55-4e27-9aaf-37c32acf5968)
+![WhatsApp Image 2025-03-15 at 14 14 16_1a6bb765](https://github.com/user-attachments/assets/f14e2b45-0793-4e78-ad21-3d2c43b09f9f)
 
 
 
 ## whatweb :
-![{43720B55-44D3-48A9-B467-80FA87712F86}](https://github.com/user-attachments/assets/91d2a083-a333-4bf9-9e90-7cfe0640b9f7)
 
+![WhatsApp Image 2025-03-15 at 14 18 36_d35c63b0](https://github.com/user-attachments/assets/14a6ea0c-a789-4373-963d-a40bc4c8b66c)
 
 
 
