@@ -1,9 +1,10 @@
+name : n v mohana krishna
+reg :212224100039
+
 # InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
-# Register Number:212224100039
-# Name: n v mohana krishna
 
 # AIM:
 
@@ -23,75 +24,167 @@ Investigate on the various categories of tools as follows:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
 
+## Pen Test Tools Categories:  
+
+Following Categories of pen test tools are identified for information gathering:
+```
+Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
+http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
+```
+
+
+## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/5aea7a87-35c4-4b25-9cce-c93c16d44338)
+
+
+![image](https://github.com/user-attachments/assets/4c5a99b2-9585-43e1-8223-b78aa2c09e15)
+
+
+## Finding IP address:
+
+```
+ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
+
+```
+
 ## OUTPUT:
 
 
-## whois:
-![Screenshot 2025-03-07 134502](https://github.com/user-attachments/assets/b1b7264a-00b6-4cc2-bd2b-58f0f050d130)
-
-## Finding Hosting Company :
-![Screenshot 2025-03-07 134454](https://github.com/user-attachments/assets/46baa95f-781d-4a46-bac6-f8a6ebe34544)
+![image](https://github.com/user-attachments/assets/fed51f82-5fe2-440e-8195-4746c0592c2c)
 
 
+## Finding Hosting Company
 
 
-
-## History of the website :
-![Screenshot 2025-03-07 134445](https://github.com/user-attachments/assets/61bd2da3-f5bf-4bed-a206-c45d5254ba00)
+```
 
 
+get further detail by using ip2location.com website.
 
-## ping command :
-![WhatsApp Image 2025-03-15 at 13 52 21_2515ebbe](https://github.com/user-attachments/assets/8f99ece6-bd21-4d7f-b460-da58136c3966)
+```
+## Output:
 
+
+![image](https://github.com/user-attachments/assets/c1ea8588-a52b-457b-a9c0-f47f13813ade)
 
 
 
-## whois :
-![WhatsApp Image 2025-03-15 at 14 04 51_37b904bb](https://github.com/user-attachments/assets/807e7966-1da6-4620-af8d-375836446f2a)
+![image](https://github.com/user-attachments/assets/12728b2b-7c8a-4b45-a855-a6d8d7e8c92a)
+
+
+## History of the website:
+
+```
+https://web.archive.org/
+
+
+```
+
+
+## Output
+
+
+![image](https://github.com/user-attachments/assets/18b2a85a-410a-4e26-9455-7d53ebcce805)
+
+
+![image](https://github.com/user-attachments/assets/7e3853cc-1dd0-422e-97e9-8fbbe5d0b1bd)
+
+
+![image](https://github.com/user-attachments/assets/c570d942-594a-45ec-ada5-4f260c19c489)
+
+
+## Netcat:
+
+```
+sudo apt ndtv.com 80
+
+```
+
+## Output:
+
+![image](https://github.com/user-attachments/assets/c4931f93-6a55-435b-bf9a-86653c61dfa6)
+
+
+## nmap:
+
+```
+nmap -p -sV --script=banner youtube.com
+
+```
+## Output:
+
+
+![image](https://github.com/user-attachments/assets/9567d2c5-1251-4f28-a06d-97cadc667db8)
+
+
+## Whatweb
+
+```
+whatweb youtube.com
+
+```
+
+## Output:
+
+
+![image](https://github.com/user-attachments/assets/616f61f5-3f18-44d5-ba4e-0e09d6b7fca6)
 
 
 
-## netcat :
+![image](https://github.com/user-attachments/assets/9c55ef0b-26cd-4748-a447-630c5cd7a8db)
 
 
-![Screenshot 2024-09-16 114928](https://github.com/user-attachments/assets/11364b4f-350e-47eb-83d9-ae92a4b0d641)
+![image](https://github.com/user-attachments/assets/2fdc96ac-ad73-47c7-b947-b6b21fc1a68d)
 
 
-## nmap :
-![WhatsApp Image 2025-03-15 at 14 14 16_1a6bb765](https://github.com/user-attachments/assets/f14e2b45-0793-4e78-ad21-3d2c43b09f9f)
+![image](https://github.com/user-attachments/assets/0c143605-2de8-4271-aa7a-e04741c28686)
 
 
+## Tracing the Location
 
-## whatweb :
+TCP Traceroute:
 
-![WhatsApp Image 2025-03-15 at 14 18 36_d35c63b0](https://github.com/user-attachments/assets/14a6ea0c-a789-4373-963d-a40bc4c8b66c)
+```
+sudo traceroute -T www.google.com
 
+```
+## Output:
 
-
-## httprint :
-
-![{5C1999C2-BF9F-4AC4-85D4-255025ADC55C}](https://github.com/user-attachments/assets/2ae99f08-eb21-4104-bb28-15d2eef74325)
-
-
-
-
-## ICMP traceroute :
-![Screenshot 2025-03-10 114031](https://github.com/user-attachments/assets/bf0adcd0-25c6-4798-a433-44004d625fd9)
+![image](https://github.com/user-attachments/assets/e2952636-ecdf-4073-8238-0e719973d68c)
 
 
 
+## UDP Traceroute:
+
+```
+
+
+sudo traceroute -U www.google.com
+
+```
+
+
+## Output
+
+
+![image](https://github.com/user-attachments/assets/11160de8-bd68-46b7-b8f8-11f764d98192)
+
+
+## ICMP Traceroute:
+
+```
+
+
+sudo traceroute  www.google.com
+
+```
+
+## Output:
 
 
 
-## TCP traceroute :
-![Screenshot 2025-03-10 114142](https://github.com/user-attachments/assets/c865802a-96d5-4412-be78-ca40c08d6cf4)
-
-
-## UDP traceroute :
-![{510AF13A-950D-46F4-BA9F-977B1DF43D25}](https://github.com/user-attachments/assets/7b4f7d85-be2b-4221-afed-2ee39d3c3ecb)
-
-
+![image](https://github.com/user-attachments/assets/d4b01515-e5d9-47c8-aeb0-37c0c36abf0b)
 
 
 
